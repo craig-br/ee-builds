@@ -1,0 +1,10 @@
+---
+collections:
+  - ansible.security
+  - check_point.mgmt
+  - community.general
+roles:
+  - ansible_security.ids_config
+  - ansible_security.ids_install
+  - ansible_security.ids_rule
+  - ansible_security.ids_rule_facts
