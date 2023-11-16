@@ -13,3 +13,5 @@ collections:
   - community.crypto
   - azure.azcollection
   - fedora.linux_system_roles
+  - redhat_cop.controller_configuration
+  - awx.awx
